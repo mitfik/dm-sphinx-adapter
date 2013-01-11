@@ -1,7 +1,0 @@
-= DataMapper Sphinx Adapter
-
-* http://github.com/shanna/dm-sphinx-adapter
-
-== Description
-
-An abandoned DataMapper Sphinx adapter.
